@@ -15,7 +15,7 @@ This project consist of 10 dummy users.
 
 **FLOW OF THE PROJECT:**
 
-Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+Home Page > View all Customers > Select and View one Customer > Transfer Money > Select Customer to transfer to > View all Customers.
 
 Contact at:https://www.linkedin.com/in/tanuvi-m-k-611091216/
          
